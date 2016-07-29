@@ -14,5 +14,5 @@ http://www.expressjs.com.cn/4x/api.html#app.engine
 ----------------------
 
 程序代码已经上传到github有需要的同学，自行下载。
-https://github.com/hydakesu/ymslx.git
+https://github.com/hydakesu/ejsDemo.git
 #ejsDemo
